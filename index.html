@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- mobile friendly -->
+    <title>Bobby's Bakery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>~ Bobby's Bakery ~</h1>
+        <nav>
+            <ul> <!-- nav links -->
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero"> <!-- style -->
+            <h2 id="ctaHeadline">Welcome to Bobby's Bakery</h2> <!-- headline JS updates -->
+            <p>We make anything from bread to macarons! Our famous Bobby's Baguette is our best seller 
+                and our cookies' crunch will never leave your mind! Come grab a sweet treat at Bobby's Bakery, 
+                custom orders are welcomed!</p>
+        </section>
+
+        <section class="services">
+            <div class="service">
+                <h3>Bread</h3>
+                <p>We specialize in baguettes, cibatta, and sourdough.</p>
+            </div>
+
+            <div class="service">
+                <h3>Cupcakes</h3>
+                <p>Our most popular choice for custom orders. We can make anything from red velvet to
+                    carrot cake or lemon... You name it, we make it!
+                </p>
+            </div>
+
+            <div class="service">
+                <h3>Cookies</h3>
+                <p>Better than your grandma's recipe! We offer boxes of 6, 12, and even 30 all made fresh daily, so grab yours today!</p>
+            </div>
+        </section>
+
+        <section class="cta-update"> <!-- user can change headline -->
+            <h3>Change the Headline to Your Favorite Baked Good!</h3>
+            <input type="text" id="headlineInput" placeholder="Type Here"> 
+            <button id="updateButton">Update</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>Contact us at: bobbysbakery@gmail.com</p>
+    </footer>
+
+    <script src="cc_7.js"></script>
+</body>
+</html>
