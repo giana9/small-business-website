@@ -34,7 +34,6 @@ nav a {
     justify-content: space-around;
     padding: 30px;
 }
-
 .service {
     background: #c3f6b2;
     padding: 20px;
@@ -42,7 +41,6 @@ nav a {
     border: 3px solid #379d57;
     transition: 0.2s;
 }
-
 .service:hover {
     transform: scale(1.05);
 }
@@ -60,13 +58,13 @@ footer {
     font-weight: bold;
 }
 
+/* Format it on mobile */
 @media (max-width: 700px) {
     .services {
         flex-direction: column;
         align-items: center;
         gap: 20px;
     }
-
     .service {
         width: 80%;
     }
