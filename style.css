@@ -58,6 +58,14 @@ footer {
     font-weight: bold;
 }
 
+.service img {
+    width: 100%;
+    height: auto;
+    border-bottom: 3px solid #379d57;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
 /* Format it on mobile */
 @media (max-width: 700px) {
     .services {
