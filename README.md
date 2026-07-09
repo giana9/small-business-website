@@ -51,9 +51,10 @@ The website includes a mobile‑friendly layout:
 
 ## ☆ How to Run the Project
 
-1. Download the project folder
-2. Extract all files
-2. Open **index.html** in any browser
+1. Download ZIP
+2. Open folder
+3. Extract all files
+4. Open **index.html** in any browser
 
 ---
 
