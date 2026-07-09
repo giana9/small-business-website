@@ -51,12 +51,9 @@ The website includes a mobile‑friendly layout:
 
 ## ☆ How to Run the Project
 
-1. Download or clone the project folder  
-2. Open **index.html** in any browser  
-3. Type a new headline in the input box  
-4. Click **Update** to see the change instantly  
-
-No server or installation required.
+1. Download the project folder
+2. Extract all files
+2. Open **index.html** in any browser
 
 ---
 
@@ -65,5 +62,3 @@ No server or installation required.
 - Add a contact form instead of listing contact info at the bottom and add a preview of the bakery's address from Google Maps
 - Add a navigation bar that links to real pages --> would have to make those pages
 - Add a real backend for custom orders
-
-
