@@ -78,7 +78,7 @@ footer {
     color: white;
 }
 
-/* Format it on mobile */
+/* formatted for mobile */
 @media (max-width: 700px) {
     .services {
         flex-direction: column;

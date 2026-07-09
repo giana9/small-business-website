@@ -1,10 +1,10 @@
-const input = document.getElementById("headlineInput"); // selects input
-const btn = document.getElementById("updateButton"); // grabs clicked button
-const headline = document.getElementById("ctaHeadline"); // grabs headline that will change
+const input = document.getElementById("headlineInput"); // (text user types) allows us to read what the user types into textbox
+const btn = document.getElementById("updateButton"); // (button user clicks) identifies button, watches for clicks
+const headline = document.getElementById("ctaHeadline"); // (text that will change) this is the text I want to change when user clicks button
 
-// Updates Button When CLicked
+// listens for button click and updates headline
 btn.addEventListener("click", function() {
     if (input.value !== "") {
         headline.textContent = input.value;
     }
-}); // listens for click, checks input box isn't empty, replaces headline with new text
+});
