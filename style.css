@@ -40,6 +40,8 @@ nav a {
     width: 25%;
     border: 3px solid #379d57;
     transition: 0.2s;
+    position: relative;
+    padding-bottom: 40px;
 }
 .service:hover {
     transform: scale(1.05);
@@ -64,6 +66,16 @@ footer {
     border-bottom: 3px solid #379d57;
     margin-bottom: 15px;
     border-radius: 10px;
+}
+
+.service::after {
+    content: "♥";
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px;
+    color: white;
 }
 
 /* Format it on mobile */
