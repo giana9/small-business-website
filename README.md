@@ -1,14 +1,14 @@
 <h1 align="center">Bobby's Bakery (Small Business Website)</h1>
 
-A mobile‑friendly website that showcases different baked goods and allows users to update the main headline with their favorite treat. This project demonstrates basic HTML structure, CSS styling, and JavaScript DOM manipulation.
+A mobile‑friendly website that showcases different baked goods and allows users to update the main headline with their favorite treat for added interactivity. This project demonstrates basic HTML structure, CSS styling, and JavaScript DOM manipulation.
 
 ---
 
 ## ☆ Project Structure
 
 - **index.html** – Main webpage containing the layout and content  
-- **style.css** – Styles for layout, colors, spacing, and responsive design  
-- **cc_7.js** – JavaScript file that updates the headline based on user input  
+- **style.css** – Styles, colors, spacing, and responsive design  
+- **cc_7.js** – Updates the headline based on user input  
 - **images/** – Folder containing images used in the service cards (bread, cupcakes, cookies)
 
 ---
@@ -23,9 +23,8 @@ A mobile‑friendly website that showcases different baked goods and allows user
 - **Each card includes:**
   - A title  
   - A description  
-  - An image  
-  - A decorative heart icon at the bottom  
-- **Interactive Headline** – Users can type their favorite baked good into an input box and click **Update** to change the main headline dynamically.
+  - An image    
+- **Interactive Headline** – Prompted with listing their favorite sweet treat, users can type into an input box and click **Update** to transform the main headline.
 
 ---
 
