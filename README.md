@@ -4,7 +4,7 @@ A mobile‑friendly website that showcases different baked goods and allows user
 
 ---
 
-## ☆ Project Structure
+<h2 align="center">☆ Project Structure ☆</h2>
 
 - **index.html** – Main webpage containing the layout and content  
 - **style.css** – Styles, colors, spacing, and responsive design  
@@ -13,7 +13,7 @@ A mobile‑friendly website that showcases different baked goods and allows user
 
 ---
 
-## ☆ Features
+<h2 align="center">☆ Features ☆</h2>
 
 - **Hero Section** – A welcoming banner introducing Bobby’s Bakery with a customizable headline.
 - **Services Section** – Three product cards:
@@ -28,7 +28,7 @@ A mobile‑friendly website that showcases different baked goods and allows user
 
 ---
 
-## ☆ JavaScript Functionality
+<h2 align="center">☆ JavaScript Functionality ☆</h2>
 
 The JavaScript file:
 - Selects the input box, button, and headline  
@@ -39,7 +39,7 @@ This demonstrates basic DOM manipulation and event handling.
 
 ---
 
-## ☆ Responsive Design
+<h2 align="center">☆ Responsive Design ☆</h2>
 
 The website includes a mobile‑friendly layout:
 - Service cards stack vertically on smaller screens  
@@ -48,7 +48,7 @@ The website includes a mobile‑friendly layout:
 
 ---
 
-## ☆ How to Run the Project
+<h2 align="center">☆ How to Run the Project ☆</h2>
 
 1. Download ZIP
 2. Open folder
@@ -57,7 +57,7 @@ The website includes a mobile‑friendly layout:
 
 ---
 
-## ☆ Future Ideas:
+<h2 align="center">☆ Future Ideas ☆</h2>
 
 - Add a contact form instead of listing contact info at the bottom and add a preview of the bakery's address from Google Maps
 - Add a navigation bar that links to real pages --> would have to make those pages
